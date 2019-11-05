@@ -8,6 +8,10 @@ public class Person implements PersonInterface {
         this.name = name;
     }
 
+    public void setSpouse(Person spouse) {
+        this.spouse = spouse;
+    }
+
     /**
      * This method checks gender of persons. If genders are not equal - tries to marry.
      * If one of them has another spouse - execute divorce(sets spouse = null for husband and wife. Example: if both persons have spouses - then divorce will set 4 spouse to null) and then executes marry().
@@ -15,12 +19,11 @@ public class Person implements PersonInterface {
      * @return - returns true if this person has another gender than passed person and they are not husband and wife, false otherwise
      */
     public boolean marry(Person person) {
-        if (this.man == person.man) return false;
-        if (this.spouse!=null) this.divorce();
-        if (person.spouse!=null) person.divorce();
-        if (this.spouse==null && person.spouse==null){
-            this.spouse=person;person.spouse=this; return true;
-        } else return false;
+        if (this.man == person.man || (this.spouse == person && person.spouse==this)) return false;
+        if (this.spouse != null) this.divorce();
+        if (person.spouse != null) person.divorce();
+        this.spouse=person; person.spouse=this;
+        return true;
     }
 
 
@@ -29,9 +32,8 @@ public class Person implements PersonInterface {
      * @return true - if person status has been changed
      */
     public boolean divorce() {
-        if (this.spouse != null && this.spouse.spouse==null) throw new IllegalStateException();
-        if(this.spouse == null) return true;
-        else { this.spouse.spouse=null; this.spouse = null; return true; }
+        if (this.spouse == null || this.spouse.spouse==null || this.spouse.spouse!=this) return false;
+        this.spouse.spouse = null; this.spouse = null; return true;
     }
 
     @Override
