@@ -1,9 +1,10 @@
 import java.io.*;
+import java.util.HashMap;
 import java.util.Map;
 
 public class DynamicClassOverloader extends ClassLoader
 {
-    private Map classesHash = new java.util.HashMap();
+    private Map classesHash = new HashMap();
     public final String[] classPath;
 
     public DynamicClassOverloader(String[] classPath){
