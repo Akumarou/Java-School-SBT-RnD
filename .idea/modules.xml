@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-School-SBT-RnD.iml" filepath="$PROJECT_DIR$/Java-School-SBT-RnD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson10/lesson10.iml" filepath="$PROJECT_DIR$/lesson10/lesson10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson12/lesson12.iml" filepath="$PROJECT_DIR$/lesson12/lesson12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson17/lesson17.iml" filepath="$PROJECT_DIR$/lesson17/lesson17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson18/lesson18.iml" filepath="$PROJECT_DIR$/lesson18/lesson18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson18/lesson18.pattenrs_api.iml" filepath="$PROJECT_DIR$/lesson18/lesson18.pattenrs_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson2/lesson2.iml" filepath="$PROJECT_DIR$/lesson2/lesson2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson21/lesson21.iml" filepath="$PROJECT_DIR$/lesson21/lesson21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson3/lesson3.iml" filepath="$PROJECT_DIR$/lesson3/lesson3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson4/lesson4.iml" filepath="$PROJECT_DIR$/lesson4/lesson4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson5/lesson5.iml" filepath="$PROJECT_DIR$/lesson5/lesson5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson6/lesson6.iml" filepath="$PROJECT_DIR$/lesson6/lesson6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson7/lesson7.iml" filepath="$PROJECT_DIR$/lesson7/lesson7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson8/lesson8.iml" filepath="$PROJECT_DIR$/lesson8/lesson8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson9/lesson9.iml" filepath="$PROJECT_DIR$/lesson9/lesson9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson18/patterns_client/patterns_client.iml" filepath="$PROJECT_DIR$/lesson18/patterns_client/patterns_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson18/patterns_impl/patterns_impl.iml" filepath="$PROJECT_DIR$/lesson18/patterns_impl/patterns_impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson18/patterns_main_api/patterns_main_api.iml" filepath="$PROJECT_DIR$/lesson18/patterns_main_api/patterns_main_api.iml" />
+    </modules>
+  </component>
+</project>
