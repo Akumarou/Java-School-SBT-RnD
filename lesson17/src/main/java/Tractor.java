@@ -1,4 +1,4 @@
-public class Tractor {
+public class Tractor implements ITractor{
     private static final int FIELD_SIZE = 5;
     private Position position = new Position(0, 0);
     private Orientation orientation = Orientation.NORTH;

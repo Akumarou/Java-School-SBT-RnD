@@ -1,5 +1,3 @@
-package ru.sbt.test.refactoring;
-
 import junit.framework.TestCase;
 
 /**

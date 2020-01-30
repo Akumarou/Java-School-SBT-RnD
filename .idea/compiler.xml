@@ -7,18 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="lesson17" />
-        <module name="patterns_main_api" />
-        <module name="patterns_impl" />
+        <module name="lesson14" />
         <module name="lesson9" />
         <module name="lesson12" />
         <module name="lesson7" />
-        <module name="lesson10" />
+        <module name="lesson6" />
         <module name="lesson5" />
-        <module name="patterns_client" />
         <module name="lesson3" />
         <module name="lesson2" />
+        <module name="lesson10" />
         <module name="lesson21" />
-        <module name="lesson6" />
         <module name="lesson4" />
         <module name="lesson8" />
       </profile>
@@ -26,6 +24,7 @@
     <bytecodeTargetLevel target="9">
       <module name="lesson10" target="1.5" />
       <module name="lesson12" target="1.5" />
+      <module name="lesson14" target="1.5" />
       <module name="lesson17" target="1.5" />
       <module name="lesson18" target="1.5" />
       <module name="lesson18.pattenrs_api" target="9" />
