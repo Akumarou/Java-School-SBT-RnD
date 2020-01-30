@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="lesson17" />
+        <module name="lesson16" />
         <module name="lesson14" />
         <module name="lesson9" />
         <module name="lesson12" />
@@ -24,7 +25,8 @@
     <bytecodeTargetLevel target="9">
       <module name="lesson10" target="1.5" />
       <module name="lesson12" target="1.5" />
-      <module name="lesson14" target="1.5" />
+      <module name="lesson14" target="7" />
+      <module name="lesson16" target="7" />
       <module name="lesson17" target="1.5" />
       <module name="lesson18" target="1.5" />
       <module name="lesson18.pattenrs_api" target="9" />
