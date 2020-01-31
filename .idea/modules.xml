@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java-School-SBT-RnD.iml" filepath="$PROJECT_DIR$/Java-School-SBT-RnD.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson10StreamApi/lesson10StreamApi.iml" filepath="$PROJECT_DIR$/lesson10StreamApi/lesson10StreamApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson10Stream_API/lesson10Stream_API.iml" filepath="$PROJECT_DIR$/lesson10Stream_API/lesson10Stream_API.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson11MultiThreading/lesson11MultiThreading.iml" filepath="$PROJECT_DIR$/lesson11MultiThreading/lesson11MultiThreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson13Java_Memory_model/lesson13Java_Memory_model.iml" filepath="$PROJECT_DIR$/lesson13Java_Memory_model/lesson13Java_Memory_model.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson16JVM_GC/lesson16JVM_GC.iml" filepath="$PROJECT_DIR$/lesson16JVM_GC/lesson16JVM_GC.iml" />

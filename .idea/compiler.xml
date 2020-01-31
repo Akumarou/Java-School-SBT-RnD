@@ -10,7 +10,8 @@
         <module name="lesson17GoodCode" />
         <module name="lesson14" />
         <module name="lesson21JDBC" />
-        <module name="lesson6Reflection_Proxy_Annotations" />
+        <module name="lesson2Main_java_classes_and_packages" />
+        <module name="lesson10Stream_API" />
         <module name="lesson9Serialization" />
         <module name="lesson4Generics" />
         <module name="lesson5Exceptions" />
@@ -18,12 +19,12 @@
         <module name="lesson11MultiThreading" />
         <module name="lesson3Collection" />
         <module name="lesson16JVM_GC" />
-        <module name="lesson10StreamApi" />
-        <module name="lesson2Main_java_classes_and_packages" />
+        <module name="lesson6Reflection_Proxy_Annotations" />
         <module name="lesson7ClassLoaders" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="9">
+      <module name="lesson10Stream_API" target="8" />
       <module name="lesson10StreamApi" target="1.5" />
       <module name="lesson11MultiThreading" target="1.5" />
       <module name="lesson12" target="1.5" />
