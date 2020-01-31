@@ -3,21 +3,21 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java-School-SBT-RnD.iml" filepath="$PROJECT_DIR$/Java-School-SBT-RnD.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson10/lesson10.iml" filepath="$PROJECT_DIR$/lesson10/lesson10.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson11/lesson11.iml" filepath="$PROJECT_DIR$/lesson11/lesson11.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson13/lesson13.iml" filepath="$PROJECT_DIR$/lesson13/lesson13.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson16/lesson16.iml" filepath="$PROJECT_DIR$/lesson16/lesson16.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson17/lesson17.iml" filepath="$PROJECT_DIR$/lesson17/lesson17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson10StreamApi/lesson10StreamApi.iml" filepath="$PROJECT_DIR$/lesson10StreamApi/lesson10StreamApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson11MultiThreading/lesson11MultiThreading.iml" filepath="$PROJECT_DIR$/lesson11MultiThreading/lesson11MultiThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson13Java_Memory_model/lesson13Java_Memory_model.iml" filepath="$PROJECT_DIR$/lesson13Java_Memory_model/lesson13Java_Memory_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson16JVM_GC/lesson16JVM_GC.iml" filepath="$PROJECT_DIR$/lesson16JVM_GC/lesson16JVM_GC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson17GoodCode/lesson17GoodCode.iml" filepath="$PROJECT_DIR$/lesson17GoodCode/lesson17GoodCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson18/lesson18.pattenrs_api.iml" filepath="$PROJECT_DIR$/lesson18/lesson18.pattenrs_api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson2/lesson2.iml" filepath="$PROJECT_DIR$/lesson2/lesson2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson21/lesson21.iml" filepath="$PROJECT_DIR$/lesson21/lesson21.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson3/lesson3.iml" filepath="$PROJECT_DIR$/lesson3/lesson3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson4/lesson4.iml" filepath="$PROJECT_DIR$/lesson4/lesson4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson5/lesson5.iml" filepath="$PROJECT_DIR$/lesson5/lesson5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson6/lesson6.iml" filepath="$PROJECT_DIR$/lesson6/lesson6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson7/lesson7.iml" filepath="$PROJECT_DIR$/lesson7/lesson7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson8/lesson8.iml" filepath="$PROJECT_DIR$/lesson8/lesson8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson9/lesson9.iml" filepath="$PROJECT_DIR$/lesson9/lesson9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson21JDBC/lesson21JDBC.iml" filepath="$PROJECT_DIR$/lesson21JDBC/lesson21JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson2Main_java_classes_and_packages/lesson2Main_java_classes_and_packages.iml" filepath="$PROJECT_DIR$/lesson2Main_java_classes_and_packages/lesson2Main_java_classes_and_packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson3Collection/lesson3Collection.iml" filepath="$PROJECT_DIR$/lesson3Collection/lesson3Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson4Generics/lesson4Generics.iml" filepath="$PROJECT_DIR$/lesson4Generics/lesson4Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson5Exceptions/lesson5Exceptions.iml" filepath="$PROJECT_DIR$/lesson5Exceptions/lesson5Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson6Reflection_Proxy_Annotations/lesson6Reflection_Proxy_Annotations.iml" filepath="$PROJECT_DIR$/lesson6Reflection_Proxy_Annotations/lesson6Reflection_Proxy_Annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson7ClassLoaders/lesson7ClassLoaders.iml" filepath="$PROJECT_DIR$/lesson7ClassLoaders/lesson7ClassLoaders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson8Modules_and_testing/lesson8Modules_and_testing.iml" filepath="$PROJECT_DIR$/lesson8Modules_and_testing/lesson8Modules_and_testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson9Serialization/lesson9Serialization.iml" filepath="$PROJECT_DIR$/lesson9Serialization/lesson9Serialization.iml" />
     </modules>
   </component>
 </project>
