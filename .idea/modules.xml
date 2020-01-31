@@ -3,21 +3,20 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java-School-SBT-RnD.iml" filepath="$PROJECT_DIR$/Java-School-SBT-RnD.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson10Stream_API/lesson10Stream_API.iml" filepath="$PROJECT_DIR$/lesson10Stream_API/lesson10Stream_API.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson11MultiThreading/lesson11MultiThreading.iml" filepath="$PROJECT_DIR$/lesson11MultiThreading/lesson11MultiThreading.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson13Java_Memory_model/lesson13Java_Memory_model.iml" filepath="$PROJECT_DIR$/lesson13Java_Memory_model/lesson13Java_Memory_model.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson16JVM_GC/lesson16JVM_GC.iml" filepath="$PROJECT_DIR$/lesson16JVM_GC/lesson16JVM_GC.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson17GoodCode/lesson17GoodCode.iml" filepath="$PROJECT_DIR$/lesson17GoodCode/lesson17GoodCode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson18/lesson18.pattenrs_api.iml" filepath="$PROJECT_DIR$/lesson18/lesson18.pattenrs_api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson21JDBC/lesson21JDBC.iml" filepath="$PROJECT_DIR$/lesson21JDBC/lesson21JDBC.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson2Main_java_classes_and_packages/lesson2Main_java_classes_and_packages.iml" filepath="$PROJECT_DIR$/lesson2Main_java_classes_and_packages/lesson2Main_java_classes_and_packages.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson3Collection/lesson3Collection.iml" filepath="$PROJECT_DIR$/lesson3Collection/lesson3Collection.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson4Generics/lesson4Generics.iml" filepath="$PROJECT_DIR$/lesson4Generics/lesson4Generics.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson5Exceptions/lesson5Exceptions.iml" filepath="$PROJECT_DIR$/lesson5Exceptions/lesson5Exceptions.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson6Reflection_Proxy_Annotations/lesson6Reflection_Proxy_Annotations.iml" filepath="$PROJECT_DIR$/lesson6Reflection_Proxy_Annotations/lesson6Reflection_Proxy_Annotations.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson7ClassLoaders/lesson7ClassLoaders.iml" filepath="$PROJECT_DIR$/lesson7ClassLoaders/lesson7ClassLoaders.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson8Modules_and_testing/lesson8Modules_and_testing.iml" filepath="$PROJECT_DIR$/lesson8Modules_and_testing/lesson8Modules_and_testing.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson9Serialization/lesson9Serialization.iml" filepath="$PROJECT_DIR$/lesson9Serialization/lesson9Serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L_10_Stream_API/L_10_Stream_API.iml" filepath="$PROJECT_DIR$/L_10_Stream_API/L_10_Stream_API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L_11_MultiThreading/L_11_MultiThreading.iml" filepath="$PROJECT_DIR$/L_11_MultiThreading/L_11_MultiThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L_13_Java_Memory_model/L_13_Java_Memory_model.iml" filepath="$PROJECT_DIR$/L_13_Java_Memory_model/L_13_Java_Memory_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L_16_JVM_GC/L_16_JVM_GC.iml" filepath="$PROJECT_DIR$/L_16_JVM_GC/L_16_JVM_GC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L_17_GoodCode/L_17_GoodCode.iml" filepath="$PROJECT_DIR$/L_17_GoodCode/L_17_GoodCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L_21_JDBC/L_21_JDBC.iml" filepath="$PROJECT_DIR$/L_21_JDBC/L_21_JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L_2_Classes_packages/L_2_Classes_packages.iml" filepath="$PROJECT_DIR$/L_2_Classes_packages/L_2_Classes_packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L_3_Collection/L_3_Collection.iml" filepath="$PROJECT_DIR$/L_3_Collection/L_3_Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L_4_Generics/L_4_Generics.iml" filepath="$PROJECT_DIR$/L_4_Generics/L_4_Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L_5_Exceptions/L_5_Exceptions.iml" filepath="$PROJECT_DIR$/L_5_Exceptions/L_5_Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L_6_Reflection_Proxy_Annotations/L_6_Reflection_Proxy_Annotations.iml" filepath="$PROJECT_DIR$/L_6_Reflection_Proxy_Annotations/L_6_Reflection_Proxy_Annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L_7_ClassLoaders/L_7_ClassLoaders.iml" filepath="$PROJECT_DIR$/L_7_ClassLoaders/L_7_ClassLoaders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L_8_Modules_and_testing/L_8_Modules_and_testing.iml" filepath="$PROJECT_DIR$/L_8_Modules_and_testing/L_8_Modules_and_testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L_9_Serialization/L_9_Serialization.iml" filepath="$PROJECT_DIR$/L_9_Serialization/L_9_Serialization.iml" />
     </modules>
   </component>
 </project>

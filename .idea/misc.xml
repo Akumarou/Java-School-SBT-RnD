@@ -3,30 +3,21 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/lesson2/pom.xml" />
-        <option value="$PROJECT_DIR$/lesson3/pom.xml" />
-        <option value="$PROJECT_DIR$/lesson4/pom.xml" />
-        <option value="$PROJECT_DIR$/lesson5/pom.xml" />
-        <option value="$PROJECT_DIR$/lesson6/pom.xml" />
-        <option value="$PROJECT_DIR$/lesson10/pom.xml" />
-        <option value="$PROJECT_DIR$/lesson7/pom.xml" />
-        <option value="$PROJECT_DIR$/lesson9/pom.xml" />
-        <option value="$PROJECT_DIR$/lesson8/pom.xml" />
-        <option value="$PROJECT_DIR$/lesson17/pom.xml" />
-        <option value="$PROJECT_DIR$/lesson18/pom.xml" />
-        <option value="$PROJECT_DIR$/lesson21/pom.xml" />
-        <option value="$PROJECT_DIR$/lesson16/pom.xml" />
-        <option value="$PROJECT_DIR$/lesson11/pom.xml" />
-        <option value="$PROJECT_DIR$/lesson13/pom.xml" />
-        <option value="$PROJECT_DIR$/lesson10Stream_API/pom.xml" />
+        <option value="$PROJECT_DIR$/L_2_Classes_packages/pom.xml" />
+        <option value="$PROJECT_DIR$/L_3_Collection/pom.xml" />
+        <option value="$PROJECT_DIR$/L_4_Generics/pom.xml" />
+        <option value="$PROJECT_DIR$/L_5_Exceptions/pom.xml" />
+        <option value="$PROJECT_DIR$/L_6_Reflection_Proxy_Annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/L_7_ClassLoaders/pom.xml" />
+        <option value="$PROJECT_DIR$/L_8_Modules_and_testing/pom.xml" />
+        <option value="$PROJECT_DIR$/L_9_Serialization/pom.xml" />
+        <option value="$PROJECT_DIR$/L_10_Stream_API/pom.xml" />
+        <option value="$PROJECT_DIR$/L_11_MultiThreading/pom.xml" />
+        <option value="$PROJECT_DIR$/L_13_Java_Memory_model/pom.xml" />
+        <option value="$PROJECT_DIR$/L_16_JVM_GC/pom.xml" />
+        <option value="$PROJECT_DIR$/L_17_GoodCode/pom.xml" />
+        <option value="$PROJECT_DIR$/L_21_JDBC/pom.xml" />
       </list>
-    </option>
-    <option name="ignoredFiles">
-      <set>
-        <option value="$PROJECT_DIR$/lesson18/patterns_api/pom.xml" />
-        <option value="$PROJECT_DIR$/lesson18/patterns_design/pom.xml" />
-        <option value="$PROJECT_DIR$/lesson18/pom.xml" />
-      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
