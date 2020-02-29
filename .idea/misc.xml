@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ourProj" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -17,6 +20,11 @@
         <option value="$PROJECT_DIR$/L_16_JVM_GC/pom.xml" />
         <option value="$PROJECT_DIR$/L_17_GoodCode/pom.xml" />
         <option value="$PROJECT_DIR$/L_21_JDBC/pom.xml" />
+        <option value="$PROJECT_DIR$/L_30_JMS/pom.xml" />
+        <option value="$PROJECT_DIR$/TestModule/pom.xml" />
+        <option value="$PROJECT_DIR$/L_32_RMI/pom.xml" />
+        <option value="$PROJECT_DIR$/ourProj/pom.xml" />
+        <option value="$PROJECT_DIR$/patterns_X_spring_learnin/pom.xml" />
       </list>
     </option>
   </component>

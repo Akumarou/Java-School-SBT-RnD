@@ -14,6 +14,7 @@ public class showJournal {
     public static void run(Connection connection) throws SQLException {
         List<Lesson> lessons = Lessons.get(connection);
         List<Attendance> journal = Journal.get(connection, lessons);
-        journal.forEach(e->Output.out(e.toString()));
+        for(Attendance e:journal)
+            System.out.println(e.toString());
     }
 }

@@ -6,21 +6,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ourProj" />
         <module name="L_16_JVM_GC" />
         <module name="lesson14" />
+        <module name="singleton_example" />
         <module name="L_7_ClassLoaders" />
         <module name="L_3_Collection" />
         <module name="L_5_Exceptions" />
         <module name="L_21_JDBC" />
+        <module name="L_30_JMS" />
+        <module name="prototype_example" />
         <module name="L_9_Serialization" />
         <module name="L_2_Classes_packages" />
+        <module name="MockitoTest" />
         <module name="L_10_Stream_API" />
         <module name="L_17_GoodCode" />
         <module name="L_11_MultiThreading" />
         <module name="L_8_Modules_and_testing" />
-        <module name="L_13_Java_Memory_model" />
-        <module name="L_4_Generics" />
+        <module name="Spring_1" />
+        <module name="L_32_RMI" />
         <module name="L_6_Reflection_Proxy_Annotations" />
+        <module name="L_4_Generics" />
+        <module name="L_13_Java_Memory_model" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="9">
@@ -29,8 +36,10 @@
       <module name="L_13_Java_Memory_model" target="1.5" />
       <module name="L_16_JVM_GC" target="1.5" />
       <module name="L_17_GoodCode" target="1.5" />
-      <module name="L_21_JDBC" target="1.5" />
+      <module name="L_21_JDBC" target="8" />
       <module name="L_2_Classes_packages" target="1.5" />
+      <module name="L_30_JMS" target="1.5" />
+      <module name="L_32_RMI" target="1.5" />
       <module name="L_3_Collection" target="1.5" />
       <module name="L_4_Generics" target="1.5" />
       <module name="L_5_Exceptions" target="1.5" />
@@ -38,6 +47,14 @@
       <module name="L_7_ClassLoaders" target="1.5" />
       <module name="L_8_Modules_and_testing" target="1.5" />
       <module name="L_9_Serialization" target="1.5" />
+      <module name="MockitoTest" target="8" />
+      <module name="ourProj" target="1.7" />
+      <module name="patterns_&amp;_spring_lessons" target="1.5" />
+      <module name="patterns_X_spring_learnin" target="1.5" />
+      <module name="prototype_example" target="1.5" />
+      <module name="singleton_example" target="1.5" />
+      <module name="Spring_1" target="7" />
+      <module name="TestModule" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

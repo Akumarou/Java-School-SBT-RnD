@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/L_17_GoodCode/L_17_GoodCode.iml" filepath="$PROJECT_DIR$/L_17_GoodCode/L_17_GoodCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/L_21_JDBC/L_21_JDBC.iml" filepath="$PROJECT_DIR$/L_21_JDBC/L_21_JDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/L_2_Classes_packages/L_2_Classes_packages.iml" filepath="$PROJECT_DIR$/L_2_Classes_packages/L_2_Classes_packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L_30_JMS/L_30_JMS.iml" filepath="$PROJECT_DIR$/L_30_JMS/L_30_JMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L_32_RMI/L_32_RMI.iml" filepath="$PROJECT_DIR$/L_32_RMI/L_32_RMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/L_3_Collection/L_3_Collection.iml" filepath="$PROJECT_DIR$/L_3_Collection/L_3_Collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/L_4_Generics/L_4_Generics.iml" filepath="$PROJECT_DIR$/L_4_Generics/L_4_Generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/L_5_Exceptions/L_5_Exceptions.iml" filepath="$PROJECT_DIR$/L_5_Exceptions/L_5_Exceptions.iml" />
@@ -17,6 +19,13 @@
       <module fileurl="file://$PROJECT_DIR$/L_7_ClassLoaders/L_7_ClassLoaders.iml" filepath="$PROJECT_DIR$/L_7_ClassLoaders/L_7_ClassLoaders.iml" />
       <module fileurl="file://$PROJECT_DIR$/L_8_Modules_and_testing/L_8_Modules_and_testing.iml" filepath="$PROJECT_DIR$/L_8_Modules_and_testing/L_8_Modules_and_testing.iml" />
       <module fileurl="file://$PROJECT_DIR$/L_9_Serialization/L_9_Serialization.iml" filepath="$PROJECT_DIR$/L_9_Serialization/L_9_Serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestModule/MockitoTest/MockitoTest.iml" filepath="$PROJECT_DIR$/TestModule/MockitoTest/MockitoTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestModule/Spring_1/Spring_1.iml" filepath="$PROJECT_DIR$/TestModule/Spring_1/Spring_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestModule/TestModule.iml" filepath="$PROJECT_DIR$/TestModule/TestModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ourProj/ourProj.iml" filepath="$PROJECT_DIR$/ourProj/ourProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterns_X_spring_learnin/patterns_X_spring_learnin.iml" filepath="$PROJECT_DIR$/patterns_X_spring_learnin/patterns_X_spring_learnin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterns_X_spring_learnin/prototype_example/prototype_example.iml" filepath="$PROJECT_DIR$/patterns_X_spring_learnin/prototype_example/prototype_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterns_X_spring_learnin/singleton_example/singleton_example.iml" filepath="$PROJECT_DIR$/patterns_X_spring_learnin/singleton_example/singleton_example.iml" />
     </modules>
   </component>
 </project>

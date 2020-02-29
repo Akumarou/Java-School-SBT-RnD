@@ -14,7 +14,7 @@ public class Lessons {
         Statement stat = connection.createStatement();
         stat.execute("select * from lessons;");
         ResultSet result = stat.getResultSet();
-        List<Lesson> lessons = new ArrayList<>();
+        List<Lesson> lessons = new ArrayList<Lesson>();
         while (result.next()){
             lessons.add(new Lesson(result.getInt(1),result.getString(2),result.getString(3)));
         }
