@@ -19,9 +19,9 @@
       <module fileurl="file://$PROJECT_DIR$/L_7_ClassLoaders/L_7_ClassLoaders.iml" filepath="$PROJECT_DIR$/L_7_ClassLoaders/L_7_ClassLoaders.iml" />
       <module fileurl="file://$PROJECT_DIR$/L_8_Modules_and_testing/L_8_Modules_and_testing.iml" filepath="$PROJECT_DIR$/L_8_Modules_and_testing/L_8_Modules_and_testing.iml" />
       <module fileurl="file://$PROJECT_DIR$/L_9_Serialization/L_9_Serialization.iml" filepath="$PROJECT_DIR$/L_9_Serialization/L_9_Serialization.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TestModule/MockitoTest/MockitoTest.iml" filepath="$PROJECT_DIR$/TestModule/MockitoTest/MockitoTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TestModule/Spring_1/Spring_1.iml" filepath="$PROJECT_DIR$/TestModule/Spring_1/Spring_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TestModule/TestModule.iml" filepath="$PROJECT_DIR$/TestModule/TestModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterns_X_spring_learnin/abstract_factory_example/abstract_factory_example.iml" filepath="$PROJECT_DIR$/patterns_X_spring_learnin/abstract_factory_example/abstract_factory_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterns_X_spring_learnin/fabrik_method/fabrik_method.iml" filepath="$PROJECT_DIR$/patterns_X_spring_learnin/fabrik_method/fabrik_method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterns_X_spring_learnin/mockito_example/mockito_example.iml" filepath="$PROJECT_DIR$/patterns_X_spring_learnin/mockito_example/mockito_example.iml" />
       <module fileurl="file://$PROJECT_DIR$/ourProj/ourProj.iml" filepath="$PROJECT_DIR$/ourProj/ourProj.iml" />
       <module fileurl="file://$PROJECT_DIR$/patterns_X_spring_learnin/patterns_X_spring_learnin.iml" filepath="$PROJECT_DIR$/patterns_X_spring_learnin/patterns_X_spring_learnin.iml" />
       <module fileurl="file://$PROJECT_DIR$/patterns_X_spring_learnin/prototype_example/prototype_example.iml" filepath="$PROJECT_DIR$/patterns_X_spring_learnin/prototype_example/prototype_example.iml" />

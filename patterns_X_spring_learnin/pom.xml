@@ -11,6 +11,10 @@
     <modules>
         <module>singleton_example</module>
         <module>prototype_example</module>
+        <module>untitled</module>
+        <module>fabrik_method</module>
+        <module>mockito_example</module>
+        <module>abstract_factory_example</module>
     </modules>
 
 

@@ -1,6 +1,5 @@
-import org.junit.Test;
-import org.mockito.Mock;
-import org.mockito.MockitoAnnotations;
+import org.junit.*;
+import org.mockito.*;
 
 import static org.mockito.BDDMockito.given;
 import static org.assertj.core.api.Assertions.*;

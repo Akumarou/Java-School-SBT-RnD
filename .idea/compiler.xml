@@ -9,21 +9,22 @@
         <module name="ourProj" />
         <module name="L_16_JVM_GC" />
         <module name="lesson14" />
-        <module name="singleton_example" />
+        <module name="prototype_example" />
         <module name="L_7_ClassLoaders" />
         <module name="L_3_Collection" />
         <module name="L_5_Exceptions" />
         <module name="L_21_JDBC" />
         <module name="L_30_JMS" />
-        <module name="prototype_example" />
         <module name="L_9_Serialization" />
         <module name="L_2_Classes_packages" />
-        <module name="MockitoTest" />
+        <module name="abstract_factory_example" />
         <module name="L_10_Stream_API" />
+        <module name="fabrik_method" />
+        <module name="singleton_example" />
         <module name="L_17_GoodCode" />
         <module name="L_11_MultiThreading" />
+        <module name="mockito_example" />
         <module name="L_8_Modules_and_testing" />
-        <module name="Spring_1" />
         <module name="L_32_RMI" />
         <module name="L_6_Reflection_Proxy_Annotations" />
         <module name="L_4_Generics" />
@@ -31,6 +32,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="9">
+      <module name="abstract_factory_example" target="8" />
+      <module name="fabrik_method" target="6" />
       <module name="L_10_Stream_API" target="1.5" />
       <module name="L_11_MultiThreading" target="1.5" />
       <module name="L_13_Java_Memory_model" target="1.5" />
@@ -47,6 +50,7 @@
       <module name="L_7_ClassLoaders" target="1.5" />
       <module name="L_8_Modules_and_testing" target="1.5" />
       <module name="L_9_Serialization" target="1.5" />
+      <module name="mockito_example" target="8" />
       <module name="MockitoTest" target="8" />
       <module name="ourProj" target="1.7" />
       <module name="patterns_&amp;_spring_lessons" target="1.5" />
