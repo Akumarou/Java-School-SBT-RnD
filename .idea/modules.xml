@@ -26,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/patterns_X_spring_learnin/patterns_X_spring_learnin.iml" filepath="$PROJECT_DIR$/patterns_X_spring_learnin/patterns_X_spring_learnin.iml" />
       <module fileurl="file://$PROJECT_DIR$/patterns_X_spring_learnin/prototype_example/prototype_example.iml" filepath="$PROJECT_DIR$/patterns_X_spring_learnin/prototype_example/prototype_example.iml" />
       <module fileurl="file://$PROJECT_DIR$/patterns_X_spring_learnin/singleton_example/singleton_example.iml" filepath="$PROJECT_DIR$/patterns_X_spring_learnin/singleton_example/singleton_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread_task/thread_task.iml" filepath="$PROJECT_DIR$/thread_task/thread_task.iml" />
     </modules>
   </component>
 </project>
